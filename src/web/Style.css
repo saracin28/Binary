@@ -1,0 +1,54 @@
+table{
+margin-top : 200px;
+border : 2px solid #A52A2A;
+margin-bottom : 200px;
+}
+
+.bc{
+font-size : xx-large;
+text-align : center;
+}
+
+td{
+border : 2px solid #A52A2A;
+}
+
+.buttons{
+text-align : center;
+}
+
+.in1, .in3{
+margin-left : 25px;
+}
+
+body{
+background-color : 	#F0FFFF;
+}
+
+html{
+margin-top : 10px;
+margin-left : 10px;
+margin-right : 10px;
+border: 10px double #A52A2A;
+}
+
+.b{
+height : 50px;
+width: 125px;
+background-color : #008CBA;
+font-size : x-large;
+color : #F8F8FF;
+}
+
+.c{
+height : 50px;
+width: 380px;
+background-color : #008CBA;
+font-size : x-large;
+color : #F8F8FF;
+}
+
+.numbers{
+font-size : x-large;
+margin-bottom : 5px;
+}
